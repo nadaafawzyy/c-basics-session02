@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vN3smviyRo=",
+  "success": true,
+  "projectFilePath": "D:\\BackEnd-ASP_Net\\Demo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nadaf\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.14\\microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512",
+    "C:\\Users\\Nadaf\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.14\\microsoft.net.illink.tasks.10.0.14.nupkg.sha512",
+    "C:\\Users\\Nadaf\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.14\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512",
+    "C:\\Users\\Nadaf\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.14\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512",
+    "C:\\Users\\Nadaf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.14\\microsoft.aspnetcore.app.runtime.win-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\Nadaf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\Nadaf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.14\\microsoft.netcore.app.runtime.win-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\Nadaf\\.nuget\\packages\\microsoft.netcore.app.runtime.nativeaot.win-x64\\10.0.14\\microsoft.netcore.app.runtime.nativeaot.win-x64.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
